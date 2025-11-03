@@ -31,7 +31,7 @@ This helps management understand performance trends and improve sales strategies
 
 ## Insights 
 (Based on February 2024 Data)
--	**Total Sales:** $11,085.48
+-	**Total Sales:* $11,085.48
 -	**Total Footfall:** 2,350 customers
 -	Average Bill per Person: $4.72
 -	Average Order per Person: 1.44
