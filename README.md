@@ -47,6 +47,6 @@ The Coffee Shop Sales Dashboard provides a clear view of overall sales performan
 ---
 
 ## Tools & Skills Used
--	Microsoft Excel – Data Cleaning, Pivot Tables, Charts, Slicers
--	Excel Functions – SUMIF, COUNTIF, AVERAGEIF
--	Data Visualization – KPI Design, Chart Formatting, Dashboard Creation
+-	Microsoft Excel - Data Cleaning, Pivot Tables, Charts, Slicers
+-	Excel Functions - SUMIF, COUNTIF, AVERAGEIF
+-	Data Visualization - KPI Design, Chart Formatting, Dashboard Creation
