@@ -16,7 +16,7 @@ This helps management understand performance trends and improve sales strategies
 -	What are the top 5 best-selling products?
 -	Which hours and days see the highest orders?
 
-Dashboard File - <a href="https://github.com/vipin-s27/Coffee-Shop-Sales-Analysis/blob/main/Coffee_Shop_Sales_Dashboard.xlsx">View Dashboard File</a>
+**Dashboard File** - <a href="https://github.com/vipin-s27/Coffee-Shop-Sales-Analysis/blob/main/Coffee_Shop_Sales_Dashboard.xlsx">View Dashboard File</a>
 
 ## Process
 -	Imported and cleaned raw sales data in Excel.
