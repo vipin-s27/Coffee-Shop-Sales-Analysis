@@ -5,4 +5,4 @@ To analyze coffee shop sales data and create an interactive Excel dashboard that
 This helps management understand performance trends and improve sales strategies.
 
 ## Dataset used
-- <a herf="https://github.com/vipin-s27/Coffee-Shop-Sales-Analysis/blob/main/Coffee_Shop_Sales_RawData.xlsx">Dataset</a>
+- <a href="https://github.com/vipin-s27/Coffee-Shop-Sales-Analysis/blob/main/Coffee_Shop_Sales_RawData.xlsx">Dataset</a>
