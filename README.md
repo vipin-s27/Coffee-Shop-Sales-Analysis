@@ -16,7 +16,7 @@ This helps management understand performance trends and improve sales strategies
 -	What are the top 5 best-selling products?
 -	Which hours and days see the highest orders?
 
-Dashboard File - <a href="https://github.com/vipin-s27/Coffee-Shop-Sales-Analysis/blob/main/Coffee_Shop_Sales_Dashboard.xlsx">View Dashboard File</a>
+**Dashboard File - <a href="https://github.com/vipin-s27/Coffee-Shop-Sales-Analysis/blob/main/Coffee_Shop_Sales_Dashboard.xlsx">View Dashboard File</a>
 
 ## Process
 -	Imported and cleaned raw sales data in Excel.
@@ -32,7 +32,7 @@ Dashboard File - <a href="https://github.com/vipin-s27/Coffee-Shop-Sales-Analysi
 ## Insights 
 (Based on February 2024 Data)
 -	**Total Sales:** $11,085.48
--	Total Footfall: 2,350 customers
+-	**Total Footfall:** 2,350 customers
 -	Average Bill per Person: $4.72
 -	Average Order per Person: 1.44
 -	Top Product: Barista Espresso ($1,522.70)
