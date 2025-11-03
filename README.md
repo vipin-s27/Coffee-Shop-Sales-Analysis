@@ -5,7 +5,7 @@ To analyze coffee shop sales data and create an interactive Excel dashboard that
 This helps management understand performance trends and improve sales strategies.
 
 ## Dataset used
-- <a href="https://github.com/vipin-s27/Coffee-Shop-Sales-Analysis/blob/main/Coffee_Shop_Sales_RawData.xlsx">Dataset</a> – Contains the raw sales data used to create the dashboard and analyze performance metrics.
+- <a href="https://github.com/vipin-s27/Coffee-Shop-Sales-Analysis/blob/main/Coffee_Shop_Sales_RawData.xlsx">Dataset</a> - Contains the raw sales data used to create the dashboard and analyze performance metrics.
 
 ## Questions (KPIs)
 -	What is the total sales revenue?
