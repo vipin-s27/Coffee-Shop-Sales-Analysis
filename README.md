@@ -43,3 +43,10 @@ Dashboard File - <a href="https://github.com/vipin-s27/Coffee-Shop-Sales-Analysi
 
 ## Final Conclusion:
 The Coffee Shop Sales Dashboard provides a clear view of overall sales performance and customer trends. It helps identify top-selling products, best-performing store locations, and peak business hours. By using this dashboard, the management can make better decisions to improve sales, optimize inventory, and enhance customer satisfaction.
+
+---
+
+## Tools & Skills Used
+-	Microsoft Excel – Data Cleaning, Pivot Tables, Charts, Slicers
+-	Excel Functions – SUMIF, COUNTIF, AVERAGEIF
+-	Data Visualization – KPI Design, Chart Formatting, Dashboard Creation
